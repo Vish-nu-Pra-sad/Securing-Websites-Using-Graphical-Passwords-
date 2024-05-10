@@ -16,6 +16,3 @@ We the team of six developed Graphical Password Authentication System
 - VISHNU PRASAD S
 - ROBERT ROSARIO T
 - JAIE PRAMOD S
-
-## Screenshots📸
-
